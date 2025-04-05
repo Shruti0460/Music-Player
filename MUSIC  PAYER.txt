@@ -1,0 +1,21 @@
+
+INTRODUCTION
+Android is open source code mobile phone operating system that comes out
+by Google. Music player in this project is application software based on
+Google Android. Music is one of the best ways to relieve pressure in stressful
+modern society life. The purpose of this project is to develop a player which
+can play the mainstream file format. To browse and query the storage space
+as well as operation of playing can be realised. Meanwhile, this software can
+play, pause and select songs with latest button and next button according to
+sets requirement as well as set up songs.
+
+
+
+METHODOLOGY
+The agile development cycle will be used to guide the development process. The reason for using agile methods is that mobile applications have a short software life cycle and rapidly changing technologies, so users will constantly change their requirement and needs in response to technological changes. Therefore, the agile development cycle is more suitable for (Android) application development because of iterative and flexible, so it can adapt effectively to changing customers. The agile development cycle contains 6 phrase which is  requirement analysis, planning, design, implementation or development, testing, and deployment
+
+
+PROBLEM STATEMENTS
+Many users like to watch video and listen to music using their mobile phone, "but the media player has many limitations. With a rapid development of communication and network, multimedia based technology is adopted in media player. So our aim is to develop a media player which can run almost any media content in any form". 
+LITERATURE REVIEW
+"The authors in [1] have tested the app in three environments including hardware, software and network. Test hardware environment is Lenovo Y460 laptop and millet M1 phone; software environment is windows 7 and phone system environment is android 4.0.3". "Network environment is China Mobile which is 10M broadband, WIFI LAN and China Mobile GPRS network.By testing each function on mobile phone and the computer simulator, the result showed that video player and audio player run well and no advertising". "Sina weibo client can successfully complete OAuth2.0 certificate authority and login and collect the basic data of the user information from sina server and no redundant information. Expected effect is achieved after testing all the functions". "They says that since the Weibo client has to access to the network, when tested on an android phone, the performance under the environment of WIFI network and mobile 2G GPRS network can meet the expected requirements". 
