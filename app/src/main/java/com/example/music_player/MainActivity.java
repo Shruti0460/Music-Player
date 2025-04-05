@@ -1,8 +1,22 @@
 package com.example.music_player;
 
+import android.Manifest;
+import android.content.pm.PackageManager;
+import android.media.MediaPlayer;
+import android.net.Uri;
+import android.os.Environment;
+import android.os.Handler;
+import android.support.annotation.NonNull;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.SeekBar;
+import android.widget.TextView;
+import android.widget.Toast;
 
+import java.io.File;
+import java.util.ArrayList;
 
 
 public class MainActivity extends AppCompatActivity {
